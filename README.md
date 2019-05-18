@@ -8,4 +8,6 @@ It is a simple demo for using knowledge distillation in mnist dataset
 
 | Teacher | Student | KD |
 | -------- | -------- | -------- |
-| 99.40(CNN)     | 98.41 (1 layer FC net)   | 98.85(+0.44)    |
+| 99.5(CNN)     | 98.41 (1 layer FC net)   | 98.89(+0.48)    |
+
+![](https://i.imgur.com/YY2G5b4.png)
