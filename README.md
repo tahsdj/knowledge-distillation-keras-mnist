@@ -1,5 +1,6 @@
 # knowledge-distillation-keras-mnist
-It is a simple demo for using knowledge distillation in mnist dataset
+It is a simple demo for using knowledge distillation on mnist dataset.
+Here is the original paper: https://arxiv.org/abs/1503.02531
 
 # Results
 
